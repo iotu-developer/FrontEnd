@@ -1,5 +1,11 @@
 # iotu
 
+## This is the  front end project of IOTU website
+
+**version 0.1**
+
+
+
 ## Project setup
 ```
 yarn install
